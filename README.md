@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Vitor Eduardo
 
-Sou estudante de **Engenharia de Controle e Automação** e desenvolvo projetos voltados para tecnologia, produtividade e soluções práticas — desde sistemas web em produção até ferramentas de automação e análise de dados.
+Sou estudante de **Engenharia de Controle e Automação** e desenvolvo projetos voltados para tecnologia, produtividade e soluções práticas, desde sistemas web em produção até ferramentas de automação e análise de dados.
 
 Gosto de trabalhar com lógica, organização e clareza. Para mim, tecnologia é sobre resolver problemas reais da forma mais eficiente possível.
 
